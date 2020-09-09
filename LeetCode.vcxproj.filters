@@ -24,5 +24,8 @@
     <ClCompile Include="最长字符串前缀.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="有效的括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
